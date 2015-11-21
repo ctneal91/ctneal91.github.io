@@ -23,7 +23,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #331c1c;
+    color: #9bdfa6;
 }
 
 h1,
@@ -64,15 +64,15 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #331c1c;
+    background-color: #9bdfa6;
 }
 
 hr.star-primary {
-    border-color: #1e3521;
+    border-color: #331c1c;
 }
 
 hr.star-primary:after {
-    color: #1e3521;
+    color: #331c1c;
     background-color: #fff;
 }
 
@@ -83,7 +83,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #331c1c;
+    background: #9bdfa6;
 }
 
 header .container {
@@ -182,7 +182,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #331c1c;
+    background: #9bdfa6;
 }
 
 section.success a,
@@ -191,7 +191,7 @@ section.success a:focus,
 section.success a:active,
 section.success a.active {
     outline: 0;
-    color: #1e3521;
+    color: #331c1c;
 }
 
 @media(max-width:767px) {
@@ -275,7 +275,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #331c1c;
+    color: #9bdfa6;
     background: #fff;
 }
 
@@ -328,7 +328,7 @@ section.success a.active {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #331c1c;
+    color: #9bdfa6;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -345,7 +345,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #1e3521;
+    background-color: #331c1c;
 }
 
 footer .footer-col {
@@ -438,7 +438,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #1e3521;
+    background-color: #331c1c;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -448,7 +448,7 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #1e3521;
+    background-color: #331c1c;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
